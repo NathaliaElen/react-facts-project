@@ -1,0 +1,29 @@
+.main {
+    padding: 60px 30px;
+    background-image: url(../../assets/react_logo_half.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 65%;
+}
+
+.title {
+    margin: 0;
+    font-size: 2.4rem;
+}
+
+.factList {
+    margin-top: 46px;
+    max-width: 600px;
+    padding-left: 40px;
+}
+
+.lisItem {
+    padding-block: 10px;
+    line-height: 19px;
+    color: #cfcfcf;
+}
+
+.factList > li::marker {
+    color: #61DAFB;
+    font-size: 2rem;
+}

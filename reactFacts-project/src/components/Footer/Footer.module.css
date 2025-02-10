@@ -1,0 +1,18 @@
+.footer {
+    background-color: #21222A;
+    color: #ffffff; 
+    padding: 20px; 
+    text-align: center;
+    border-top: 1px solid #444; /* Linha de borda sutil no topo */
+}
+
+
+.smallParagraph {
+    font-size: 14px; 
+    color: #cfcfcf;
+    font-style: italic;
+}
+
+.smallParagraph b {
+    color: #61DAFB;
+}
